@@ -72,9 +72,8 @@ The next decade of financial infrastructure will depend heavily on Real World As
 ### Market Opportunity
 The global market for physical asset verification spans trillions of dollars across commodities, logistics, manufacturing, environmental assets, and infrastructure finance. As capital markets increasingly demand stronger transparency, the need for reliable verification infrastructure continues to grow.
 
----
-
-##  Repository Structure
+```text
+Repository Structure
 
 ```text
 ├── firmware/         # Edge computing telemetry and physical oracle scripts
@@ -84,7 +83,9 @@ The global market for physical asset verification spans trillions of dollars acr
 └── README.md         # Protocol overview
 
 Founder & Chief Architect
+
 Gabriel de Almeida Santos Silva
+
 Areas of expertise include:
 
 Protocol architecture & Blockchain engineering
@@ -94,7 +95,8 @@ Infrastructure & Enterprise systems design
 Macroeconomic modeling
 
 Strategic Direction
-PoWV is being developed with a long-term focus on enterprise adoption, institutional integration, regulatory compatibility, and scalable infrastructure.
+PoWV is being developed with a long-term focus on enterprise adoption, institutional integration,
+regulatory compatibility, and scalable infrastructure.
 
 Philosophy: Bitcoin proved digital scarcity. PoWV focuses on verifiable physical integrity.
 
@@ -104,6 +106,7 @@ Current Stage: Research & Architecture / Enterprise Framework Development
 Exploration: Strategic Partnerships
 
 Contact & Official Channels
+
 Partnerships, enterprise collaboration, and research inquiries:
 
 Email: gabriel@powvprotocol.org / powv.protocol@proton.me
@@ -111,6 +114,8 @@ Email: gabriel@powvprotocol.org / powv.protocol@proton.me
 Official Web: powvprotocol.org | powvprotocol.com
 
 Legal Notice
-The PoWV Protocol, associated methodologies, architectural frameworks, and related intellectual property may be protected by applicable intellectual property laws.
+
+The PoWV Protocol, associated methodologies, architectural frameworks, and related intellectual
+property may be protected by applicable intellectual property laws.
 
 Copyright © 2026 Gabriel de Almeida Santos Silva. All rights reserved.
